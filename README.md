@@ -12,6 +12,6 @@ This is a Child Theme for the Twenty-Twenty-Theme from wordpress.
 
 ## License
 
-![Creative Commons License](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
+This work is distributed under the terms of the GNU GPL version 2
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
