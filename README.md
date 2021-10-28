@@ -14,4 +14,4 @@ This is a Child Theme for the Twenty-Twenty-Theme from wordpress.
 
 This work is distributed under the terms of the GNU GPL version 2
 
-http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+http://www.gnu.org/licenses/gpl-2.0.en.html
